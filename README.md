@@ -58,5 +58,5 @@ In addition, the "headless" model is becoming more popular, but there are still 
 
 
 ## Resources For Those Struggling with the Above Concepts
-C# 7th Edition - Anne Boehm and Joel Murach
-ASP.NET Core MVC - Mary Delamater and Joel Murach
+1. C# 7th Edition - Anne Boehm and Joel Murach
+2. ASP.NET Core MVC - Mary Delamater and Joel Murach
