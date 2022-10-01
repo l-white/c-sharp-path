@@ -11,8 +11,9 @@ One of our students in the Zero to Mastery commmunity is studying C# at their un
 
 ## Learn the MVC Pattern with Razor Pages
 1. Course - SECTION 3 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core
-2. Learning Path - Microsoft - MVC
-3. Learning Path - Microsoft - Razor
+2. [Learning Path - Microsoft - MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
+3. [Learning Path - Microsoft - Razor](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)
+4. [Razor Syntax Reference](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-6.0)
 
 ## Learn about Entity Framework Core
 There are two approaches to working with databases in EF Core:
