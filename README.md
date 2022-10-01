@@ -20,3 +20,28 @@ There are two approaches to working with databases in EF Core:
 
 Course - SECTION 6 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core
 Learning Path - Microsoft - EF Core
+
+## Learn How to Create Your Own API
+In the course below, you will learn how to use Swagger to create an interface for your API so that you can test it.
+
+Course - SECTION 7 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core
+Learning Path - Microsoft - REST APIs
+
+## Learn about Security and Authorization
+
+Course - SECTION 8 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core
+Learning Path - Microsoft
+
+## Next Steps
+At this point, you have some solid back-end skills. A logical next step is to ensure that you understand Razor pages well. If you do, and can modify them, then congratualtions! You can develop full-stack applications, especially after you've completed section Eight of the ASP.NET 6.0 Course. This is a huge first step. But to make yourself truly marketable, it is important to learn a popular library or framework.
+
+In most cases, if you want to become a full-stack developer, the logical next step is to learn React. You can do that through Yihua Zhang's The Complete React Developer Course from Zero to Mastery. In Yihua's course, you will build an app with Firebase. I recommend going through Yihua's course and then, as a special challenge for yourself, rebuild the back-end with C# and SQL server and deploy that to Azure DevOps.
+
+After you've done that, to get yourself closer to a senior-level developer, you can do the following, in this order:
+1. Learn about CI/CD and create build and release pipelines for your apps in Azure DevOps.
+2. Learn about Microservices in C#.
+
+## A Question You Might Ask
+*Why are we skipping sections 4 and 5 in the C# course?* I'm glad you asked! The reason is that a number of large-scale applications are built with frameworks like Vue and Angular or with React (which is technically a library). As a full-stack software engineer, I am personally seeing much more demand for React skills than for Razor and Blazor. That said, it doesn't hurt to learn them so that you understand the trade-offs of using them versus a different framework.
+
+In addition, the "headless" model is becoming more popular, but there are still plenty of apps that use MVC, and MVC is a great starting point to understand concepts like the separation of concerns.
