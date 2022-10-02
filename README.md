@@ -2,12 +2,12 @@
 One of our students in the Zero to Mastery commmunity is studying C# at their university and asked for some resources. There is little else I like talking about than software development in C#, so I was more than happy to put this curated path together. I suggest taking it in the order, which involves taking one course on Udemy and then solidifying your knowledge with the learning paths from Microsoft.
 
 ## Learn .NET Basics
-1. [Course - SECTION 1 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core](https://www.udemy.com/course/aspnet-6-course/)
-2. [Microsoft Learn Path - Introduction and Overview](https://learn.microsoft.com/en-us/dotnet/core/introduction)
+- [ ] [Course - SECTION 1 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core](https://www.udemy.com/course/aspnet-6-course/)
+- [ ] [Microsoft Learn Path - Introduction and Overview](https://learn.microsoft.com/en-us/dotnet/core/introduction)
 
 ## Learn HTML, CSS, and Bootstrap
-1. Course - The Complete Web Developer
-2. Course - SECTION 2 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core
+- [ ] [Course - SECTION 2 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core](https://www.udemy.com/course/aspnet-6-course/)
+- [ ] OPTIONAL: [Course - COMPLETE BEGINNING THROUGH BOOSTRAP SECTION - The Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 ## Learn the MVC Pattern with Razor Pages
 1. Course - SECTION 3 ONLY - ASP.NET Core 6.0 Course - MVC - Blazor - Razor - EF Core
