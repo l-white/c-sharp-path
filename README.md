@@ -54,9 +54,15 @@ I suggest getting a solid foundation in data structures and algorithms in C#. To
 - [ ] Extra credit - [Course - Zero to Mastery - Master the Coding Interview: Big Tech (FAANG) Interviews](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/)
 - [ ] Extra credit - Sign up for a Leetcode account for extra practice.
 
-### Learn CI/CD and Microservices Architecture
+### Learn CI/CD, Unit Testing, and Microservices Architecture (in this order)
 After you've done that, to get yourself closer to a senior-level developer, you can do the following, in this order. Specific details for suggested courses and resources coming soon...
+
+#### CI/CD
 - [ ] Learn about CI/CD and create build and release pipelines for your apps in Azure DevOps.
+
+#### Unit Testing
+
+#### Microservices
 - [ ] Learn about Microservices in C#.
 
 *Note: It is perfectly valid to deploy to AWS instead of Azure DevOps, but most courses that cover C# will have you deploy to Azure DevOps. It is also a little easier for beginners, due to the GUI that Microsoft provides, but AWS is definitely more popular. If you want to learn AWS instead, you can take a look at this book: Developing on AWS with C# by Noah Gift and James Charlesworth*
