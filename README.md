@@ -58,7 +58,8 @@ I suggest getting a solid foundation in data structures and algorithms in C#. To
 After you've done that, to get yourself closer to a senior-level developer, you can do the following, in this order. Specific details for suggested courses and resources coming soon...
 
 #### CI/CD
-- [ ] Learn about CI/CD and create build and release pipelines for your apps in Azure DevOps.
+Learn about CI/CD and create build and release pipelines for your apps in Azure DevOps. To get started, I recommend the course below, but with one caveat: the instructor does not appear to keep it updated. That said, what we are aiming for here is to understand the basics, such as understanding how to build and modify YAML pipelines, getting a basic introduction to Docker, and learning how to set up a release pipeline.
+- [ ] [Course - CI/CD Pipelines using Azure DevOps](https://www.udemy.com/course/cicd-pipelines-using-azure-devops/)
 
 #### Unit Testing
 
