@@ -61,10 +61,11 @@ After you've done that, to get yourself closer to a senior-level developer, you 
 Learn about CI/CD and create build and release pipelines for your apps in Azure DevOps. To get started, I recommend the course below, but with one caveat: the instructor does not appear to keep it updated. That said, what we are aiming for here is to understand the basics, such as understanding how to build and modify YAML pipelines, getting a basic introduction to Docker, and learning how to set up a release pipeline.
 - [ ] [Course - CI/CD Pipelines using Azure DevOps](https://www.udemy.com/course/cicd-pipelines-using-azure-devops/)
 
-#### Unit Testing
+#### Unit and Integration Testing
+- [ ] [Course - Test Driven Development in ASP.NET Core - The Handbook](https://www.udemy.com/course/test-driven-development-in-net-core-the-handbook/)
 
 #### Microservices
-- [ ] Learn about Microservices in C#.
+- [ ] [Course: .NET Core Microservices - The Complete Guide](https://www.udemy.com/course/net-core-microservices-the-complete-guide-net-6-mvc/)
 
 *Note: It is perfectly valid to deploy to AWS instead of Azure DevOps, but most courses that cover C# will have you deploy to Azure DevOps. It is also a little easier for beginners, due to the GUI that Microsoft provides, but AWS is definitely more popular. If you want to learn AWS instead, you can take a look at this book: Developing on AWS with C# by Noah Gift and James Charlesworth*
 
@@ -72,9 +73,6 @@ Learn about CI/CD and create build and release pipelines for your apps in Azure 
 *Why are we skipping sections 4 and 5 in the C# course?* I'm glad you asked! The reason is that a number of large-scale applications are built with frameworks like Vue and Angular or with React (which is technically a library). As a full-stack software engineer, I am personally seeing much more demand for React skills than for Razor and Blazor. That said, it doesn't hurt to learn them so that you understand the trade-offs of using them versus a different framework.
 
 In addition, the "headless" model is becoming more popular, but there are still plenty of apps that use MVC, and MVC is a great starting point to understand concepts like the separation of concerns.
-
-## Extra Credit Reading
-Coming soon...
 
 ## Resources For Those Struggling with the Above Concepts
 1. C# 7th Edition - Anne Boehm and Joel Murach - A caveat: This book covers the database first approach to Entity Framework. Developers should learn the code-first approach first (see above).
