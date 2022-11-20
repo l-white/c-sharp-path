@@ -75,5 +75,5 @@ Learn about CI/CD and create build and release pipelines for your apps in Azure 
 In addition, the "headless" model is becoming more popular, but there are still plenty of apps that use MVC, and MVC is a great starting point to understand concepts like the separation of concerns.
 
 ## Resources For Those Struggling with the Above Concepts
-1. C# 7th Edition - Anne Boehm and Joel Murach - A caveat: This book covers the database first approach to Entity Framework. Developers should learn the code-first approach first (see above).
+1. C# 7th Edition - Anne Boehm and Joel Murach
 2. ASP.NET Core MVC - Mary Delamater and Joel Murach
